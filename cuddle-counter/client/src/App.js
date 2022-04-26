@@ -92,7 +92,7 @@ const Button = () => {
 
   useEffect(() => {
     updateData();
-  }, [cuddles, kisses]);
+  }, cuddles, kisses);
 
   const updateData = async () => {
     try {

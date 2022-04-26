@@ -40,5 +40,8 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://tnz11.github.io/noor"
+  "homepage": "https://tnz11.github.io/noor",
+  "devDependencies": {
+    "netlify-cli": "^10.0.0"
+  }
 }
